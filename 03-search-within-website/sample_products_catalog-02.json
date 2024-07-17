@@ -1,0 +1,462 @@
+[
+    {
+        "product_id": "F001",
+        "name": "Tom Yum Soup Mix",
+        "description": "Experience the bold flavors of Thailand with our authentic Tom Yum soup mix. A perfect blend of lemongrass, chili, and herbs.",
+        "price": 7.99,
+        "currency": "USD",
+        "category": "Food",
+        "cuisine": "Thai",
+        "stock_quantity": 100,
+        "images": [
+            "tom_yum_soup_mix_image1.jpg",
+            "tom_yum_soup_mix_image2.jpg"
+        ],
+        "ratings": {
+            "average": 4.5,
+            "count": 30
+        },
+        "features": [
+            "Spicy and Sour",
+            "Quick and Easy Preparation",
+            "No MSG Added"
+        ]
+    },
+    {
+        "product_id": "F002",
+        "name": "Margherita Pizza",
+        "description": "Savor the classic taste of Italy with our Margherita Pizza. Fresh tomatoes, mozzarella, and basil on a crispy thin crust.",
+        "price": 12.99,
+        "currency": "USD",
+        "category": "Food",
+        "cuisine": "Italian",
+        "stock_quantity": 80,
+        "images": [
+            "margherita_pizza_image1.jpg",
+            "margherita_pizza_image2.jpg"
+        ],
+        "ratings": {
+            "average": 4.7,
+            "count": 45
+        },
+        "features": [
+            "Authentic Italian Recipe",
+            "Wood-Fired Crust",
+            "Vegetarian Delight"
+        ]
+    },
+    {
+        "product_id": "F003",
+        "name": "Pad Thai Noodles",
+        "description": "Indulge in the flavors of Thailand with our Pad Thai Noodles. Stir-fried rice noodles with shrimp, tofu, peanuts, and lime.",
+        "price": 10.99,
+        "currency": "USD",
+        "category": "Food",
+        "cuisine": "Thai",
+        "stock_quantity": 90,
+        "images": [
+            "pad_thai_noodles_image1.jpg",
+            "pad_thai_noodles_image2.jpg"
+        ],
+        "ratings": {
+            "average": 4.6,
+            "count": 40
+        },
+        "features": [
+            "Sweet and Tangy Sauce",
+            "Customizable Spice Level",
+            "Garnished with Fresh Herbs"
+        ]
+    },
+    {
+        "product_id": "F004",
+        "name": "Ravioli with Pesto Sauce",
+        "description": "Treat yourself to the richness of Italian cuisine with our Ravioli in Pesto Sauce. Stuffed pasta pockets with basil and pine nut pesto.",
+        "price": 14.99,
+        "currency": "USD",
+        "category": "Food",
+        "cuisine": "Italian",
+        "stock_quantity": 70,
+        "images": [
+            "ravioli_pesto_image1.jpg",
+            "ravioli_pesto_image2.jpg"
+        ],
+        "ratings": {
+            "average": 4.8,
+            "count": 50
+        },
+        "features": [
+            "Handmade Pasta",
+            "Creamy Pesto Sauce",
+            "Parmesan Cheese Topping"
+        ]
+    },
+    {
+        "product_id": "F005",
+        "name": "Green Curry Paste",
+        "description": "Bring the flavors of green curry to your kitchen with our Green Curry Paste. A blend of Thai herbs and spices for authentic dishes.",
+        "price": 6.99,
+        "currency": "USD",
+        "category": "Food",
+        "cuisine": "Thai",
+        "stock_quantity": 110,
+        "images": [
+            "green_curry_paste_image1.jpg",
+            "green_curry_paste_image2.jpg"
+        ],
+        "ratings": {
+            "average": 4.4,
+            "count": 35
+        },
+        "features": [
+            "Vibrant and Aromatic",
+            "Versatile Cooking Ingredient",
+            "No Artificial Preservatives"
+        ]
+    },
+    {
+        "product_id": "F006",
+        "name": "Lasagna al Forno",
+        "description": "Experience the comfort of homemade Lasagna al Forno. Layers of pasta, Bolognese sauce, béchamel, and melted cheese.",
+        "price": 16.99,
+        "currency": "USD",
+        "category": "Food",
+        "cuisine": "Italian",
+        "stock_quantity": 60,
+        "images": [
+            "lasagna_al_forno_image1.jpg",
+            "lasagna_al_forno_image2.jpg"
+        ],
+        "ratings": {
+            "average": 4.9,
+            "count": 55
+        },
+        "features": [
+            "Hearty and Satisfying",
+            "Slow-Cooked Bolognese",
+            "Perfectly Baked Layers"
+        ]
+    },
+    {
+        "product_id": "F007",
+        "name": "Red Curry Sauce",
+        "description": "Add a burst of flavor to your dishes with our Red Curry Sauce. A Thai-inspired sauce with a perfect balance of heat and sweetness.",
+        "price": 8.99,
+        "currency": "USD",
+        "category": "Food",
+        "cuisine": "Thai",
+        "stock_quantity": 95,
+        "images": [
+            "red_curry_sauce_image1.jpg",
+            "red_curry_sauce_image2.jpg"
+        ],
+        "ratings": {
+            "average": 4.7,
+            "count": 48
+        },
+        "features": [
+            "Rich and Creamy",
+            "Ideal for Stir-Fries",
+            "No Artificial Colors"
+        ]
+    },
+    {
+        "product_id": "F008",
+        "name": "Gelato Assortment",
+        "description": "Indulge in the sweetness of Italy with our Gelato Assortment. A variety of flavors including pistachio, chocolate, and strawberry.",
+        "price": 9.99,
+        "currency": "USD",
+        "category": "Food",
+        "cuisine": "Italian",
+        "stock_quantity": 85,
+        "images": [
+            "gelato_assortment_image1.jpg",
+            "gelato_assortment_image2.jpg"
+        ],
+        "ratings": {
+            "average": 4.6,
+            "count": 42
+        },
+        "features": [
+            "Authentic Gelato Experience",
+            "Creamy and Refreshing",
+            "Perfect Dessert Sampler"
+        ]
+    },
+    {
+        "product_id": "F009",
+        "name": "Massaman Curry Paste",
+        "description": "Craft delightful Massaman curry with our Massaman Curry Paste. A Thai blend of spices for a rich and aromatic curry experience.",
+        "price": 7.49,
+        "currency": "USD",
+        "category": "Food",
+        "cuisine": "Thai",
+        "stock_quantity": 105,
+        "images": [
+            "massaman_curry_paste_image1.jpg",
+            "massaman_curry_paste_image2.jpg"
+        ],
+        "ratings": {
+            "average": 4.5,
+            "count": 38
+        },
+        "features": [
+            "Mild and Fragrant",
+            "Perfect for Meat and Vegetables",
+            "No Added Preservatives"
+        ]
+    },
+    {
+        "product_id": "F010",
+        "name": "Tiramisu Dessert",
+        "description": "Indulge your sweet tooth with our Tiramisu Dessert. Layers of coffee-soaked ladyfingers and mascarpone cream, topped with cocoa.",
+        "price": 11.99,
+        "currency": "USD",
+        "category": "Food",
+        "cuisine": "Italian",
+        "stock_quantity": 75,
+        "images": [
+            "tiramisu_dessert_image1.jpg",
+            "tiramisu_dessert_image2.jpg"
+        ],
+        "ratings": {
+            "average": 4.8,
+            "count": 60
+        },
+        "features": [
+            "Classic Italian Delight",
+            "Light and Decadent",
+            "Perfectly Balanced Flavors"
+        ]
+    },
+    {
+        "product_id": "F011",
+        "name": "Thai Basil Chicken",
+        "description": "Create a Thai culinary masterpiece with our Thai Basil Chicken kit. Fresh basil, aromatic spices, and succulent chicken pieces.",
+        "price": 13.99,
+        "currency": "USD",
+        "category": "Food",
+        "cuisine": "Thai",
+        "stock_quantity": 55,
+        "images": [
+            "thai_basil_chicken_image1.jpg",
+            "thai_basil_chicken_image2.jpg"
+        ],
+        "ratings": {
+            "average": 4.6,
+            "count": 45
+        },
+        "features": [
+            "Quick and Easy Cooking",
+            "Authentic Thai Flavors",
+            "Serves 2-3 People"
+        ]
+    },
+    {
+        "product_id": "F012",
+        "name": "Four Cheese Ravioli",
+        "description": "Delight in the cheesy goodness of our Four Cheese Ravioli. Stuffed pasta with a blend of ricotta, mozzarella, parmesan, and asiago.",
+        "price": 15.99,
+        "currency": "USD",
+        "category": "Food",
+        "cuisine": "Italian",
+        "stock_quantity": 50,
+        "images": [
+            "four_cheese_ravioli_image1.jpg",
+            "four_cheese_ravioli_image2.jpg"
+        ],
+        "ratings": {
+            "average": 4.7,
+            "count": 55
+        },
+        "features": [
+            "Rich and Creamy Filling",
+            "Perfect for Cheese Lovers",
+            "Pairs Well with Marinara Sauce"
+        ]
+    },
+    {
+        "product_id": "F013",
+        "name": "Green Papaya Salad Kit",
+        "description": "Experience the freshness of Thai cuisine with our Green Papaya Salad Kit. All the ingredients for a zesty and crunchy salad.",
+        "price": 9.99,
+        "currency": "USD",
+        "category": "Food",
+        "cuisine": "Thai",
+        "stock_quantity": 60,
+        "images": [
+            "green_papaya_salad_kit_image1.jpg",
+            "green_papaya_salad_kit_image2.jpg"
+        ],
+        "ratings": {
+            "average": 4.5,
+            "count": 40
+        },
+        "features": [
+            "Vibrant and Healthy",
+            "Includes Spicy Dressing",
+            "Serves 4-6 People"
+        ]
+    },
+    {
+        "product_id": "F014",
+        "name": "Penne alla Vodka",
+        "description": "Indulge in the richness of our Penne alla Vodka. Penne pasta in a creamy tomato and vodka-infused sauce, topped with parmesan.",
+        "price": 14.49,
+        "currency": "USD",
+        "category": "Food",
+        "cuisine": "Italian",
+        "stock_quantity": 45,
+        "images": [
+            "penne_alla_vodka_image1.jpg",
+            "penne_alla_vodka_image2.jpg"
+        ],
+        "ratings": {
+            "average": 4.8,
+            "count": 48
+        },
+        "features": [
+            "Savory and Luxurious",
+            "Perfect for Dinner Parties",
+            "Easy to Prepare"
+        ]
+    },
+    {
+        "product_id": "F015",
+        "name": "Yellow Curry Paste",
+        "description": "Add warmth to your dishes with our Yellow Curry Paste. A Thai-inspired blend of spices for creating delicious yellow curry meals.",
+        "price": 7.99,
+        "currency": "USD",
+        "category": "Food",
+        "cuisine": "Thai",
+        "stock_quantity": 65,
+        "images": [
+            "yellow_curry_paste_image1.jpg",
+            "yellow_curry_paste_image2.jpg"
+        ],
+        "ratings": {
+            "average": 4.4,
+            "count": 35
+        },
+        "features": [
+            "Mild and Fragrant",
+            "Versatile Cooking Ingredient",
+            "No Artificial Flavors"
+        ]
+    },
+    {
+        "product_id": "F016",
+        "name": "Caprese Salad Kit",
+        "description": "Enjoy the simplicity of Italian flavors with our Caprese Salad Kit. Fresh tomatoes, mozzarella, basil, and balsamic glaze.",
+        "price": 11.99,
+        "currency": "USD",
+        "category": "Food",
+        "cuisine": "Italian",
+        "stock_quantity": 55,
+        "images": [
+            "caprese_salad_kit_image1.jpg",
+            "caprese_salad_kit_image2.jpg"
+        ],
+        "ratings": {
+            "average": 4.7,
+            "count": 50
+        },
+        "features": [
+            "Refreshing and Light",
+            "Ideal Summer Salad",
+            "Serves 2-4 People"
+        ]
+    },
+    {
+        "product_id": "F017",
+        "name": "Massaman Curry Chicken",
+        "description": "Savor the rich flavors of Massaman curry with our Massaman Curry Chicken kit. Tender chicken, potatoes, and peanuts in a fragrant curry.",
+        "price": 15.99,
+        "currency": "USD",
+        "category": "Food",
+        "cuisine": "Thai",
+        "stock_quantity": 50,
+        "images": [
+            "massaman_curry_chicken_image1.jpg",
+            "massaman_curry_chicken_image2.jpg"
+        ],
+        "ratings": {
+            "average": 4.6,
+            "count": 42
+        },
+        "features": [
+            "Hearty and Aromatic",
+            "Includes Coconut Milk",
+            "Serves 3-4 People"
+        ]
+    },
+    {
+        "product_id": "F018",
+        "name": "Fettuccine Alfredo",
+        "description": "Experience the creamy indulgence of Fettuccine Alfredo. Fettuccine pasta in a rich Alfredo sauce, garnished with parsley.",
+        "price": 13.99,
+        "currency": "USD",
+        "category": "Food",
+        "cuisine": "Italian",
+        "stock_quantity": 48,
+        "images": [
+            "fettuccine_alfredo_image1.jpg",
+            "fettuccine_alfredo_image2.jpg"
+        ],
+        "ratings": {
+            "average": 4.8,
+            "count": 55
+        },
+        "features": [
+            "Classic Italian Comfort",
+            "Creamy Parmesan Sauce",
+            "Quick Gourmet Meal"
+        ]
+    },
+    {
+        "product_id": "F019",
+        "name": "Thai Iced Tea Mix",
+        "description": "Quench your thirst with the exotic flavors of Thai Iced Tea. Our mix brings the authentic taste of Thai street vendors to your home.",
+        "price": 6.99,
+        "currency": "USD",
+        "category": "Food",
+        "cuisine": "Thai",
+        "stock_quantity": 60,
+        "images": [
+            "thai_iced_tea_mix_image1.jpg",
+            "thai_iced_tea_mix_image2.jpg"
+        ],
+        "ratings": {
+            "average": 4.5,
+            "count": 38
+        },
+        "features": [
+            "Sweet and Refreshing",
+            "Easy to Prepare",
+            "No Artificial Sweeteners"
+        ]
+    },
+    {
+        "product_id": "F020",
+        "name": "Gnocchi with Pesto",
+        "description": "Delight in the pillowy texture of Gnocchi with Pesto. Potato dumplings tossed in a basil and pine nut pesto sauce.",
+        "price": 14.49,
+        "currency": "USD",
+        "category": "Food",
+        "cuisine": "Italian",
+        "stock_quantity": 42,
+        "images": [
+            "gnocchi_with_pesto_image1.jpg",
+            "gnocchi_with_pesto_image2.jpg"
+        ],
+        "ratings": {
+            "average": 4.7,
+            "count": 50
+        },
+        "features": [
+            "Handmade Gnocchi",
+            "Fresh Basil Pesto",
+            "Gourmet Italian Dish"
+        ]
+    }
+]

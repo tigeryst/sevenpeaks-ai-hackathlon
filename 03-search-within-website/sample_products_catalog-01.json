@@ -1,0 +1,669 @@
+[
+  {
+    "product_id": "P001",
+    "name": "Smartphone X1",
+    "description": "Experience the latest technology with the Smartphone X1. A powerful device with advanced features.",
+    "price": 699.99,
+    "currency": "USD",
+    "category": "Electronics",
+    "brand": "TechGuru",
+    "stock_quantity": 50,
+    "images": [
+      "smartphone_x1_image1.jpg",
+      "smartphone_x1_image2.jpg"
+    ],
+    "ratings": {
+      "average": 4.7,
+      "count": 85
+    },
+    "features": [
+      "5G Connectivity",
+      "Dual Camera",
+      "Face Recognition"
+    ]
+  },
+  {
+    "product_id": "P002",
+    "name": "Ultra HD Smart TV",
+    "description": "Transform your home entertainment with the Ultra HD Smart TV. Stunning visuals and smart features for an immersive experience.",
+    "price": 1299.99,
+    "currency": "USD",
+    "category": "Electronics",
+    "brand": "VisionTech",
+    "stock_quantity": 30,
+    "images": [
+      "smart_tv_image1.jpg",
+      "smart_tv_image2.jpg"
+    ],
+    "ratings": {
+      "average": 4.5,
+      "count": 110
+    },
+    "features": [
+      "4K Resolution",
+      "Smart Hub",
+      "Voice Control"
+    ]
+  },
+  {
+    "product_id": "P003",
+    "name": "Wireless Noise-Canceling Headphones",
+    "description": "Immerse yourself in music with these high-quality wireless headphones featuring advanced noise-canceling technology.",
+    "price": 199.99,
+    "currency": "USD",
+    "category": "Electronics",
+    "brand": "AudioPro",
+    "stock_quantity": 20,
+    "images": [
+      "headphones_image1.jpg",
+      "headphones_image2.jpg"
+    ],
+    "ratings": {
+      "average": 4.8,
+      "count": 95
+    },
+    "features": [
+      "Wireless Connectivity",
+      "Active Noise Cancellation",
+      "Long Battery Life"
+    ]
+  },
+  {
+    "product_id": "P004",
+    "name": "Compact Digital Camera",
+    "description": "Capture unforgettable moments with this compact digital camera. Easy to use and packed with powerful features.",
+    "price": 349.99,
+    "currency": "USD",
+    "category": "Electronics",
+    "brand": "PhotoMaster",
+    "stock_quantity": 15,
+    "images": [
+      "camera_image1.jpg",
+      "camera_image2.jpg"
+    ],
+    "ratings": {
+      "average": 4.6,
+      "count": 80
+    },
+    "features": [
+      "High-Resolution Imaging",
+      "Zoom Lens",
+      "Touchscreen Display"
+    ]
+  },
+  {
+    "product_id": "P005",
+    "name": "Gaming Laptop X2",
+    "description": "Elevate your gaming experience with the Gaming Laptop X2. Powerful performance and stunning graphics for hardcore gamers.",
+    "price": 1899.99,
+    "currency": "USD",
+    "category": "Computers",
+    "brand": "GameMaster",
+    "stock_quantity": 25,
+    "images": [
+      "gaming_laptop_image1.jpg",
+      "gaming_laptop_image2.jpg"
+    ],
+    "ratings": {
+      "average": 4.9,
+      "count": 120
+    },
+    "features": [
+      "High-End Graphics Card",
+      "Fast Refresh Rate",
+      "RGB Backlit Keyboard"
+    ]
+  },
+  {
+    "product_id": "P006",
+    "name": "Fitness Tracker Pro",
+    "description": "Achieve your fitness goals with the Fitness Tracker Pro. Monitor your activities and stay motivated on your health journey.",
+    "price": 79.99,
+    "currency": "USD",
+    "category": "Fitness",
+    "brand": "FitTech",
+    "stock_quantity": 40,
+    "images": [
+      "fitness_tracker_image1.jpg",
+      "fitness_tracker_image2.jpg"
+    ],
+    "ratings": {
+      "average": 4.4,
+      "count": 90
+    },
+    "features": [
+      "Heart Rate Monitoring",
+      "Sleep Tracking",
+      "Water Resistant"
+    ]
+  },
+  {
+    "product_id": "P007",
+    "name": "Chef's Kitchen Knife Set",
+    "description": "Upgrade your kitchen with the Chef's Kitchen Knife Set. Precision and durability for culinary enthusiasts.",
+    "price": 129.99,
+    "currency": "USD",
+    "category": "Kitchen",
+    "brand": "CulinaryCraft",
+    "stock_quantity": 35,
+    "images": [
+      "knife_set_image1.jpg",
+      "knife_set_image2.jpg"
+    ],
+    "ratings": {
+      "average": 4.7,
+      "count": 75
+    },
+    "features": [
+      "High-Quality Stainless Steel",
+      "Ergonomic Handles",
+      "Full Tang Construction"
+    ]
+  },
+  {
+    "product_id": "P008",
+    "name": "Outdoor Adventure Backpack",
+    "description": "Embark on outdoor adventures with the Outdoor Adventure Backpack. Durable and feature-packed for explorers.",
+    "price": 89.99,
+    "currency": "USD",
+    "category": "Outdoors",
+    "brand": "ExploreGear",
+    "stock_quantity": 18,
+    "images": [
+      "backpack_image1.jpg",
+      "backpack_image2.jpg"
+    ],
+    "ratings": {
+      "average": 4.5,
+      "count": 85
+    },
+    "features": [
+      "Water-Resistant Material",
+      "Multiple Compartments",
+      "Adjustable Straps"
+    ]
+  },
+  {
+    "product_id": "P009",
+    "name": "Home Security Camera System",
+    "description": "Keep your home secure with the Home Security Camera System. Monitor and protect your property with advanced surveillance.",
+    "price": 299.99,
+    "currency": "USD",
+    "category": "Security",
+    "brand": "SecureGuard",
+    "stock_quantity": 22,
+    "images": [
+      "security_camera_image1.jpg",
+      "security_camera_image2.jpg"
+    ],
+    "ratings": {
+      "average": 4.6,
+      "count": 95
+    },
+    "features": [
+      "HD Video Recording",
+      "Motion Detection",
+      "Remote Access"
+    ]
+  },
+  {
+    "product_id": "P011",
+    "name": "Casual Denim Jacket",
+    "description": "Stay stylish and comfortable with this classic denim jacket. Perfect for casual outings and versatile enough for any season.",
+    "price": 59.99,
+    "currency": "USD",
+    "category": "Clothing",
+    "brand": "FashionForward",
+    "stock_quantity": 40,
+    "images": [
+      "denim_jacket_image1.jpg",
+      "denim_jacket_image2.jpg"
+    ],
+    "ratings": {
+      "average": 4.5,
+      "count": 60
+    },
+    "features": [
+      "Denim Fabric",
+      "Button-Up Closure",
+      "Multiple Pockets"
+    ]
+  },
+  {
+    "product_id": "P012",
+    "name": "Running Shoes X3",
+    "description": "Elevate your running experience with these performance-focused running shoes. Lightweight, responsive, and designed for comfort.",
+    "price": 79.99,
+    "currency": "USD",
+    "category": "Shoes",
+    "brand": "RunElite",
+    "stock_quantity": 35,
+    "images": [
+      "running_shoes_image1.jpg",
+      "running_shoes_image2.jpg"
+    ],
+    "ratings": {
+      "average": 4.8,
+      "count": 75
+    },
+    "features": [
+      "Breathable Mesh Upper",
+      "Cushioned Midsole",
+      "Traction Outsole"
+    ]
+  },
+  {
+    "product_id": "P013",
+    "name": "Formal Business Suit",
+    "description": "Make a statement with this elegant and tailored business suit. Perfect for formal occasions and professional settings.",
+    "price": 249.99,
+    "currency": "USD",
+    "category": "Clothing",
+    "brand": "SartorialChoice",
+    "stock_quantity": 20,
+    "images": [
+      "business_suit_image1.jpg",
+      "business_suit_image2.jpg"
+    ],
+    "ratings": {
+      "average": 4.7,
+      "count": 50
+    },
+    "features": [
+      "Wool Blend Fabric",
+      "Single-Breasted Jacket",
+      "Slim-Fit Design"
+    ]
+  },
+  {
+    "product_id": "P014",
+    "name": "Classic White Sneakers",
+    "description": "Step out in style with these timeless classic white sneakers. Versatile and comfortable for everyday wear.",
+    "price": 49.99,
+    "currency": "USD",
+    "category": "Shoes",
+    "brand": "UrbanChic",
+    "stock_quantity": 30,
+    "images": [
+      "white_sneakers_image1.jpg",
+      "white_sneakers_image2.jpg"
+    ],
+    "ratings": {
+      "average": 4.6,
+      "count": 65
+    },
+    "features": [
+      "Canvas Upper",
+      "Lace-Up Closure",
+      "Rubber Sole"
+    ]
+  },
+  {
+    "product_id": "P015",
+    "name": "Cozy Knit Sweater",
+    "description": "Stay warm and stylish with this cozy knit sweater. A wardrobe essential for the colder months.",
+    "price": 39.99,
+    "currency": "USD",
+    "category": "Clothing",
+    "brand": "WarmEssentials",
+    "stock_quantity": 45,
+    "images": [
+      "knit_sweater_image1.jpg",
+      "knit_sweater_image2.jpg"
+    ],
+    "ratings": {
+      "average": 4.4,
+      "count": 55
+    },
+    "features": [
+      "Soft Acrylic Blend",
+      "Crew Neckline",
+      "Ribbed Cuffs and Hem"
+    ]
+  },
+  {
+    "product_id": "P016",
+    "name": "Hiking Boots Pro",
+    "description": "Conquer the trails with these durable and supportive hiking boots. Designed for outdoor adventures and rugged terrain.",
+    "price": 129.99,
+    "currency": "USD",
+    "category": "Shoes",
+    "brand": "AdventureGear",
+    "stock_quantity": 25,
+    "images": [
+      "hiking_boots_image1.jpg",
+      "hiking_boots_image2.jpg"
+    ],
+    "ratings": {
+      "average": 4.9,
+      "count": 80
+    },
+    "features": [
+      "Waterproof Construction",
+      "Ankle Support",
+      "Traction Outsole"
+    ]
+  },
+  {
+    "product_id": "P017",
+    "name": "Summer Floral Dress",
+    "description": "Embrace the season with this stylish summer floral dress. Lightweight and vibrant for a fashionable look.",
+    "price": 69.99,
+    "currency": "USD",
+    "category": "Clothing",
+    "brand": "SunStyle",
+    "stock_quantity": 15,
+    "images": [
+      "floral_dress_image1.jpg",
+      "floral_dress_image2.jpg"
+    ],
+    "ratings": {
+      "average": 4.7,
+      "count": 40
+    },
+    "features": [
+      "Floral Print",
+      "Off-Shoulder Design",
+      "Flowy Silhouette"
+    ]
+  },
+  {
+    "product_id": "P018",
+    "name": "Classic Leather Loafers",
+    "description": "Complete your formal look with these classic leather loafers. Timeless and sophisticated for any occasion.",
+    "price": 89.99,
+    "currency": "USD",
+    "category": "Shoes",
+    "brand": "EleganceFootwear",
+    "stock_quantity": 18,
+    "images": [
+      "leather_loafers_image1.jpg",
+      "leather_loafers_image2.jpg"
+    ],
+    "ratings": {
+      "average": 4.5,
+      "count": 60
+    },
+    "features": [
+      "Genuine Leather Upper",
+      "Slip-On Style",
+      "Low Heel"
+    ]
+  },
+  {
+    "product_id": "P019",
+    "name": "Active Wear Leggings",
+    "description": "Stay active in style with these comfortable and stretchy active wear leggings. Perfect for workouts and daily activities.",
+    "price": 29.99,
+    "currency": "USD",
+    "category": "Clothing",
+    "brand": "FitFlex",
+    "stock_quantity": 22,
+    "images": [
+      "leggings_image1.jpg",
+      "leggings_image2.jpg"
+    ],
+    "ratings": {
+      "average": 4.6,
+      "count": 50
+    },
+    "features": [
+      "Moisture-Wicking Fabric",
+      "Elastic Waistband",
+      "Squat-Proof Design"
+    ]
+  },
+  {
+    "product_id": "P020",
+    "name": "Fashionable Ankle Boots",
+    "description": "Step out in confidence with these fashionable ankle boots. Versatile and chic, perfect for any ensemble.",
+    "price": 59.99,
+    "currency": "USD",
+    "category": "Shoes",
+    "brand": "StyleMaven",
+    "stock_quantity": 12,
+    "images": [
+      "ankle_boots_image1.jpg",
+      "ankle_boots_image2.jpg"
+    ],
+    "ratings": {
+      "average": 4.8,
+      "count": 70
+    },
+    "features": [
+      "Faux Leather Upper",
+      "Block Heel",
+      "Zipper Closure"
+    ]
+  },
+  {
+    "product_id": "P021",
+    "name": "High-Performance Running Shoes",
+    "description": "Maximize your running potential with these high-performance running shoes. Lightweight, responsive, and built for speed.",
+    "price": 119.99,
+    "currency": "USD",
+    "category": "Sports",
+    "brand": "RunMax",
+    "stock_quantity": 30,
+    "images": [
+      "running_shoes_high_performance_image1.jpg",
+      "running_shoes_high_performance_image2.jpg"
+    ],
+    "ratings": {
+      "average": 4.9,
+      "count": 90
+    },
+    "features": [
+      "Breathable Mesh Upper",
+      "Shock-Absorbing Midsole",
+      "Reflective Details"
+    ]
+  },
+  {
+    "product_id": "P022",
+    "name": "Professional Tennis Racket",
+    "description": "Take your tennis game to the next level with this professional-grade tennis racket. Power, control, and precision in every swing.",
+    "price": 189.99,
+    "currency": "USD",
+    "category": "Sports",
+    "brand": "ProStrike",
+    "stock_quantity": 25,
+    "images": [
+      "tennis_racket_professional_image1.jpg",
+      "tennis_racket_professional_image2.jpg"
+    ],
+    "ratings": {
+      "average": 4.8,
+      "count": 80
+    },
+    "features": [
+      "Carbon Fiber Frame",
+      "Grip Comfort Technology",
+      "Strung with Professional Grade Strings"
+    ]
+  },
+  {
+    "product_id": "P023",
+    "name": "Fitness Tracker Watch",
+    "description": "Achieve your fitness goals with this advanced fitness tracker watch. Monitor workouts, track progress, and stay connected on the go.",
+    "price": 149.99,
+    "currency": "USD",
+    "category": "Sports",
+    "brand": "FitTech Pro",
+    "stock_quantity": 35,
+    "images": [
+      "fitness_tracker_watch_image1.jpg",
+      "fitness_tracker_watch_image2.jpg"
+    ],
+    "ratings": {
+      "average": 4.7,
+      "count": 70
+    },
+    "features": [
+      "Heart Rate Monitoring",
+      "GPS Tracking",
+      "Waterproof Design"
+    ]
+  },
+  {
+    "product_id": "P024",
+    "name": "Outdoor Basketball",
+    "description": "Dominate the court with this durable outdoor basketball. Designed for all-weather play and superior grip.",
+    "price": 29.99,
+    "currency": "USD",
+    "category": "Sports",
+    "brand": "CourtMaster",
+    "stock_quantity": 40,
+    "images": [
+      "outdoor_basketball_image1.jpg",
+      "outdoor_basketball_image2.jpg"
+    ],
+    "ratings": {
+      "average": 4.6,
+      "count": 60
+    },
+    "features": [
+      "High-Performance Rubber",
+      "Deep Channel Design",
+      "Optimal Bounce"
+    ]
+  },
+  {
+    "product_id": "P025",
+    "name": "Cycling Helmet Pro",
+    "description": "Ensure safety and style on your cycling adventures with this professional-grade cycling helmet. Aerodynamic design and impact protection.",
+    "price": 89.99,
+    "currency": "USD",
+    "category": "Sports",
+    "brand": "RideSafe",
+    "stock_quantity": 20,
+    "images": [
+      "cycling_helmet_pro_image1.jpg",
+      "cycling_helmet_pro_image2.jpg"
+    ],
+    "ratings": {
+      "average": 4.8,
+      "count": 50
+    },
+    "features": [
+      "Adjustable Fit System",
+      "Ventilation Channels",
+      "Lightweight Construction"
+    ]
+  },
+  {
+    "product_id": "P026",
+    "name": "Pro-Level Golf Clubs Set",
+    "description": "Elevate your golf game with this pro-level golf clubs set. Precision-engineered for distance, accuracy, and control.",
+    "price": 699.99,
+    "currency": "USD",
+    "category": "Sports",
+    "brand": "GreenMaster",
+    "stock_quantity": 15,
+    "images": [
+      "golf_clubs_set_pro_image1.jpg",
+      "golf_clubs_set_pro_image2.jpg"
+    ],
+    "ratings": {
+      "average": 4.9,
+      "count": 75
+    },
+    "features": [
+      "Forged Titanium Drivers",
+      "Graphite Shaft Irons",
+      "Luxury Golf Bag Included"
+    ]
+  },
+  {
+    "product_id": "P027",
+    "name": "Soccer Training Cones Set",
+    "description": "Enhance your soccer skills with this set of durable training cones. Ideal for agility drills, dribbling exercises, and precision training.",
+    "price": 19.99,
+    "currency": "USD",
+    "category": "Sports",
+    "brand": "SoccerPro",
+    "stock_quantity": 45,
+    "images": [
+      "soccer_training_cones_set_image1.jpg",
+      "soccer_training_cones_set_image2.jpg"
+    ],
+    "ratings": {
+      "average": 4.7,
+      "count": 55
+    },
+    "features": [
+      "Bright Colors for Visibility",
+      "Durable Plastic Material",
+      "Carry Strap Included"
+    ]
+  },
+  {
+    "product_id": "P028",
+    "name": "Compression Arm Sleeves",
+    "description": "Optimize your performance with these compression arm sleeves. Supportive and comfortable for various sports and activities.",
+    "price": 24.99,
+    "currency": "USD",
+    "category": "Sports",
+    "brand": "FlexFit",
+    "stock_quantity": 28,
+    "images": [
+      "compression_arm_sleeves_image1.jpg",
+      "compression_arm_sleeves_image2.jpg"
+    ],
+    "ratings": {
+      "average": 4.6,
+      "count": 65
+    },
+    "features": [
+      "Graduated Compression",
+      "Moisture-Wicking Fabric",
+      "UV Protection"
+    ]
+  },
+  {
+    "product_id": "P029",
+    "name": "Portable Camping Stove",
+    "description": "Fuel your outdoor adventures with this portable camping stove. Compact, efficient, and perfect for camping and hiking trips.",
+    "price": 49.99,
+    "currency": "USD",
+    "category": "Sports",
+    "brand": "AdventureCook",
+    "stock_quantity": 32,
+    "images": [
+      "camping_stove_image1.jpg",
+      "camping_stove_image2.jpg"
+    ],
+    "ratings": {
+      "average": 4.5,
+      "count": 40
+    },
+    "features": [
+      "Foldable Design",
+      "Windproof Burner",
+      "Carry Case Included"
+    ]
+  },
+  {
+    "product_id": "P030",
+    "name": "Yoga Mat and Accessories Kit",
+    "description": "Elevate your yoga practice with this complete mat and accessories kit. Non-slip mat, blocks, and strap for a holistic yoga experience.",
+    "price": 39.99,
+    "currency": "USD",
+    "category": "Sports",
+    "brand": "ZenYoga",
+    "stock_quantity": 22,
+    "images": [
+      "yoga_mat_accessories_kit_image1.jpg",
+      "yoga_mat_accessories_kit_image2.jpg"
+    ],
+    "ratings": {
+      "average": 4.8,
+      "count": 48
+    },
+    "features": [
+      "Non-Toxic TPE Material",
+      "Durable Foam Blocks",
+      "Adjustable Yoga Strap"
+    ]
+  }
+]
